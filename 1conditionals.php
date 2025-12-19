@@ -17,4 +17,4 @@ if ($price > 200) {
 <p>Price: ₱<?php echo $price; ?></p>
 <p>Category: <?php echo $message; ?></p>
 
-<?php include "includes/footer.php"; ?>
+<?php require "requires/footer.php"; ?>

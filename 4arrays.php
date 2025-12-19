@@ -11,4 +11,4 @@ $total = $quantity * $price; // PHP auto converts string to int
 <p>Price per cup: ₱<?php echo $price; ?></p>
 <p>Total: ₱<?php echo $total; ?></p>
 
-<?php include "includes/footer.php"; ?>
+<?php require "requires/footer.php"; ?>

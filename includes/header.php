@@ -17,6 +17,7 @@
   <a href="4arrays.php">Arrays & Type Juggling</a>
   <a href="5include.php">Include</a>
   <a href="6combined.php">Combined</a>
+  <a href="7stocks.php">Stock Control</a>
 </nav>
 
 <h2>Freshly Brewed Logic</h2>

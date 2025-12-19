@@ -14,4 +14,4 @@ $cup = match($size) {
 <p>Cup Size Code: <?php echo $size; ?></p>
 <p>Description: <?php echo $cup; ?></p>
 
-<?php include "includes/footer.php"; ?>
+<?php require "requires/footer.php"; ?>

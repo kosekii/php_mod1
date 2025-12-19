@@ -8,7 +8,7 @@ $discount = match($day) {
   default => 0
 };
 
-$prices = [120, 150, 180];
+$prices = [120, 150, 180, 140, 170];
 
 foreach ($prices as $price) {
   $final = $price - ($price * $discount);
@@ -16,4 +16,4 @@ foreach ($prices as $price) {
 }
 ?>
 
-<?php include "includes/footer.php"; ?>
+<?php require "requires/footer.php"; ?>

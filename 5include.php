@@ -2,4 +2,4 @@
 
 <p>INCLUDE HEADER AND FOOTER PROOF.</p>
 
-<?php include "includes/footer.php"; ?>
+<?php require "requires/footer.php"; ?>

@@ -3,11 +3,11 @@
 <h2>Available Coffee Menu</h2>
 
 <?php
-$menu = ["Espresso", "Latte", "Cappuccino", "Americano"];
+$menu = ["Espresso", "Latte", "Cappuccino", "Americano", "Mocha"];
 
 foreach ($menu as $item) {
   echo "<p>☕ $item</p>";
 }
 ?>
 
-<?php include "includes/footer.php"; ?>
+<?php require "requires/footer.php"; ?>
